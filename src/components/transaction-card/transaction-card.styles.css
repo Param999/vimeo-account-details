@@ -1,0 +1,27 @@
+.tx-card {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin: 0.5rem;
+  box-shadow: 0px 3px 6px #00000029;
+  padding: 0.5rem;
+}
+
+.tx-card__amt {
+  display: flex;
+  flex-direction: column;
+  text-align: right;
+}
+
+.tx-card__deposit {
+  color: green;
+  padding: 0.5rem;
+}
+
+.tx-card__withdraw {
+  color: red;
+  padding: 0.5rem;
+}
+.tx-card__balance {
+  padding: 0.5rem;
+}

@@ -1,0 +1,6 @@
+.transaction-list__title {
+  font-weight: 500;
+  font-size: 1.2rem;
+  margin: 1rem;
+  color: rgba(0, 143, 251, 0.85);
+}
